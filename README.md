@@ -1,3 +1,5 @@
 Hi, I'm Nazza6000
 
-I'm an amateur programmer with Scottish Higher level skills in Python and HTML/CSS/JS. I'm a Raspberry Pi enthusiast as well. Currently learning MATLAB/Simulink.
+I'm a first year Physics student in the north-east of England. I have Scottish Higher level programming skills in Python and HTML/CSS/JS, and am trying to get to grips with MatLab.
+
+:)
